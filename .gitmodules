@@ -1,3 +1,6 @@
 [submodule "SimulationGUI_new"]
 	path = SimulationGUI_new
 	url = https://github.com/hadasman/SimulationGUI_new.git
+[submodule "function_scripts"]
+	path = function_scripts
+	url = https://github.com/hadasman/function_scripts.git
